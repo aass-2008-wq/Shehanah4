@@ -1,0 +1,55 @@
+[
+  {
+    "file": "masmak.jpg",
+    "title": "Masmak Castle entrance, 2006",
+    "author": "Baptiste Marcel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Masmak_castle.jpg",
+    "localFile": "images/masmak.jpg"
+  },
+  {
+    "file": "diriyah.jpg",
+    "title": "At-Turaif in Diriyah, 2024",
+    "author": "Radosław Botev / Fundacja Nomos",
+    "license": "CC BY 3.0 PL",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/",
+    "source": "https://commons.wikimedia.org/wiki/File:At-Turaif_District_in_ad-Dir%27iyah_(1).jpg",
+    "localFile": "images/diriyah.jpg"
+  },
+  {
+    "file": "makkah.jpg",
+    "title": "Masjid Al Haram, Mecca, 2003",
+    "author": "Ali Mansuri",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "source": "https://commons.wikimedia.org/wiki/File:Masjid_Al_Haram._Mecca,_Saudi_Arabia.jpg",
+    "localFile": "images/mecca.jpg"
+  },
+  {
+    "file": "madinah.jpg",
+    "title": "Masjid Nabawi, Medina, 2003",
+    "author": "Ali Mansuri",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "source": "https://commons.wikimedia.org/wiki/File:Masjid_Nabawi._Medina,_Saudi_Arabia.jpg",
+    "localFile": "images/medina.jpg"
+  },
+  {
+    "file": "riyadh.jpg",
+    "title": "King Abdullah Financial District, Riyadh, 2015",
+    "author": "B.alotaby",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:KAFD_seen_from_North_east_side_of_Riyadh_City.jpg",
+    "localFile": "images/riyadh.jpg"
+  },
+  {
+    "file": "train.jpg",
+    "title": "Haramain high speed railway",
+    "author": "Saudi Press Agency (SPA)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%82%D8%B7%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86_2023.jpg",
+    "localFile": "images/train.jpg"
+  }
+]
